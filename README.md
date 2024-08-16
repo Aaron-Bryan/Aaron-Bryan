@@ -6,7 +6,7 @@
 - Interested in Game Development
 - Also Interested in Cyber Security
 - Always trying to be a better version of myself.
-- Currently seeking Opporunities.
+- Currently has a job now, so I might not be able to code as often.
 
 ## Programming Languages
 - Python
